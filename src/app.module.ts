@@ -22,7 +22,7 @@ import { AppController } from './app.controller';
     CategoriaModule,
     ProdutoModule,
   ],
-  controllers: [AppController],
-  providers: [AppModule],
+  controllers: [],
+  providers: [],
 })
 export class AppModule {}
